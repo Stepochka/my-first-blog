@@ -1,4 +1,5 @@
 *.pyc
+*.cmd
 *~
 __pycache__
 myvenv
